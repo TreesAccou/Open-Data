@@ -13,6 +13,6 @@
 * _De beelden zijn no known copyright. Lees meer in de [gebruiksvoorwaarden](https://hetarchief.be/nl/gebruiksvoorwaarden)._
 
 ## Gebruiksrichtlijnen
-* _Hoe wordt best naar de bron van de data (jouw organisatie) verwezen? (Naamsvermelding)VIAA verzoekt de gebruiker in alle gevallen van hergebruik, als blijk van waardering voor hun werk, de namen van VIAA en de betrokken collectiebeherende instelling(en) te vermelden_
+* _VIAA verzoekt de gebruiker in alle gevallen van hergebruik, als blijk van waardering voor hun werk, de namen van VIAA en de betrokken collectiebeherende instelling(en) te vermelden_
 * _Naar de inhoud van de data wordt het best verwezen met de links in deze vorm: https://hetarchief.be/abraham/c:bnc:25. De code op het einde van de URI is een Abraham ID en is voor iedere krantentitel uniek_
 
