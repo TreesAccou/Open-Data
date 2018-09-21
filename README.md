@@ -3,7 +3,6 @@
 * _Daarvoor verzamelen we (data over) beeld en geluid van 140 content partners. Daarbovenop liep er enkele jaren geleden een digitaliseringsproject van oorlogskranten. Kranten van Vlaamse archieven, bibliotheken en cultureelerfgoedinstellingen die tussen 1914 en 1918 gepubliceerd werden, werden gedigitaliseerd, gearchiveerd en online beschikbaar gemaakt._
 
 * _Om meer informatie te verschaffen over onze meest voorkomende krantentitels, verzamelden we basic metadata over die kranten en maken deze open beschikbaar. We willen deze dataset publiceren op Wikidata, zodat de aanwezige informatie verder verrijkt kan worden én geïnteresseerden de weg vinden naar uitgaven van iedere krantentitel op ons eigen platform. _
-* _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
 
 ## _Oorlogskranten '14 - '18_
 * _krantentitel, Abraham ID, techniek, URI naar edities op Het Archief, URI naar informatie op Anet, plaats van publicatie, start publicatie, einde publicatie, rechteninformatie_
