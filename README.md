@@ -11,7 +11,7 @@
 
 ## Licenties
 * _Metadata is CC0._
-* _De beelden zijn publiek domein._
+* _De beelden zijn no known copyright. Lees meer op https://hetarchief.be/nl/gebruiksvoorwaarden._
 
 ## Gebruiksrichtlijnen
 * _Hoe wordt best naar de bron van de data (jouw organisatie) verwezen? (Naamsvermelding)VIAA verzoekt de gebruiker in alle gevallen van hergebruik, als blijk van waardering voor hun werk, de namen van VIAA en de betrokken collectiebeherende instelling(en) te vermelden_
